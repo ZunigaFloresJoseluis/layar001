@@ -1,0 +1,54 @@
+{
+    "errorCode": 0, 
+    "errorString": "ok", 
+    "hotspots": [
+      {
+        "anchor": {
+          "geolocation": {
+            "lat": 17.061543, 
+            "lon":   -96.72502980000002
+          }
+        }, 
+        "id": 1, 
+        "text": {
+          "title": "Cinepolis"
+        }
+      }, 
+      {
+        "anchor": {
+          "geolocation": {
+            "lat":17.061543, 
+            "lon":  -96.72502980000002
+          }
+        }, 
+        "icon": {
+          "url": "https://raw.githubusercontent.com/ZunigaFloresJoseluis/layar001/master/img/IMG_20180223_154914_1.jpg"
+        }, 
+        "id": 2, 
+        "text": {
+          "description": "Es  la catedral de oaxaca", 
+          "title": "A la vista de todos la catedral de oaxaca"
+        }
+      }, 
+      {
+        "actions": [
+          {
+            "contentType": "text/html", 
+            "label": " visita el zocalo de Oaxaca", 
+            "uri": "http://www.oaxaca-mio.com/atrac_turisticos/catedral_oaxaca.htm"
+          }
+        ], 
+        "anchor": {
+          "geolocation": {
+            "lat":17.061543, 
+            "lon":   -96.72502980000002
+          }
+        }, 
+        "id": 3, 
+        "text": {
+          "title": "accion?"
+        }
+      }
+    ], 
+    "layer": ""
+  }
