@@ -26,7 +26,15 @@
           "lon": -96.76849539999999
         }
       }, 
-     
+      "showDialog": {
+        "title":"Some title",
+        "description": "Some description",
+        "iconURL": "https://raw.githubusercontent.com/ZunigaFloresJoseluis/layar001/master/img/IMG_20180223_151527.jpg",
+        "actions": [{
+          "contentType": "application\/vnd.layar.internal",
+          "uri": "layar:\/\/layername\/?action=refresh",
+          "label": "Refresh POIs"}]
+      },
       "id": 3, 
       "text": {
         "description": "Esta es mi casa es muy agradable estar aqui", 
