@@ -18,7 +18,7 @@
         
       ],
       "category": [
-        "Musseum Arte Entretenimiento"
+        "Museo","Arte"," Entretenimiento" 
        ], 
       "anchor": {
         "geolocation": {
@@ -29,7 +29,7 @@
     
       "id": 3, 
       "text": {
-        "description": "Un museo que promosiona a los pintores oaxaqueños en Mexico y  el extranjero", 
+        "description": "Un museo que promociona a los pintores oaxaqueños en Mexico y  el extranjero", 
         "title": "Museo de los pintores"
          
       }
