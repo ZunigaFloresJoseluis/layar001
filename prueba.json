@@ -2,18 +2,7 @@
   "errorCode": 0, 
   "errorString": "ok", 
   "hotspots": [
-    {
-      "anchor": {
-        "geolocation": {
-          "lat":17.07536742568149 , 
-          "lon": -96.76849539999999
-        }
-      }, 
-      "id": 1, 
-      "text": {
-        "title": "Casa de jose luis"
-      }
-    }, 
+    
      
     {
       "icon": {
@@ -34,7 +23,7 @@
       }, 
       "id": 3, 
       "text": {
-        "title": "Que esperas para entrar"
+        "title": "Casa de jose luis"
       }
     }
   ], 
