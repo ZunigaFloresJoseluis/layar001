@@ -12,9 +12,10 @@
         {
           "contentType": "text/html", 
           "label": "Visita  esto ", 
-          "uri": "https://zunigafloresjoseluis.bitbucket.io/",
-          "imageURL": "https://raw.githubusercontent.com/ZunigaFloresJoseluis/layar001/master/img/IMG_20180223_151527.jpg"
-      
+          "uri": "https://zunigafloresjoseluis.bitbucket.io/"
+          
+        },
+        { "content": "<a href=\"https://raw.githubusercontent.com/ZunigaFloresJoseluis/layar001/master/img/IMG_20180223_151527.jpg\" alt=\"\" width=\"300\" height=\"199\" \\/><\\/a>\r\n\r\n<address>Historic Gate Cottage<\\/address>",
         }
         
       ],
