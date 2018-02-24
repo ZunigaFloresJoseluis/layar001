@@ -1,0 +1,54 @@
+{
+    "errorCode": 0, 
+    "errorString": "ok", 
+    "hotspots": [
+      {
+        "anchor": {
+          "geolocation": {
+            "lat": 17.089304, 
+            "lon":  -96.721815
+          }
+        }, 
+        "id": 1, 
+        "text": {
+          "title": "Santo Domingo"
+        }
+      }, 
+      {
+        "anchor": {
+          "geolocation": {
+            "lat": 17.089304, 
+            "lon": -96.721815
+          }
+        }, 
+        "icon": {
+          "url": "https://raw.githubusercontent.com/ZunigaFloresJoseluis/layar001/master/img/m1.png"
+        }, 
+        "id": 2, 
+        "text": {
+          "description": "Es una catedral hermosa", 
+          "title": "Enamorate de Santo Domingo"
+        }
+      }, 
+      {
+        "actions": [
+          {
+            "contentType": "text/html", 
+            "label": " Conoce la historia de Santo Domingo", 
+            "uri": "http://www.oaxaca-mio.com/atrac_turisticos/santo_domingo.htm"
+          }
+        ], 
+        "anchor": {
+          "geolocation": {
+            "lat":17.089304, 
+            "lon":  -96.721815
+          }
+        }, 
+        "id": 3, 
+        "text": {
+          "title": "accion?"
+        }
+      }
+    ], 
+    "layer": ""
+  }
