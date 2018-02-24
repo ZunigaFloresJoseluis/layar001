@@ -30,25 +30,6 @@
           "description": "Description line 1\nDescription line 2\nand Description line 3", 
           "title": "This POI has a custom icon and description"
         }
-      }, 
-      {
-        "actions": [
-          {
-            "contentType": "text/html", 
-            "label": "Visit our hotspots documentation!", 
-            "uri": "https://zunigafloresjoseluis.bitbucket.io/"
-          }
-        ], 
-        "anchor": {
-          "geolocation": {
-            "lat": 17.075139399999998 , 
-            "lon": -96.76849979999997 
-          }
-        }, 
-        "id": 3, 
-        "text": {
-          "title": "This POI has an action"
-        }
       }
     ], 
     "layer": ""
