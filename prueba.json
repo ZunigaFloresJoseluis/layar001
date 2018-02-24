@@ -6,8 +6,8 @@
       {
         "anchor": {
           "geolocation": {
-            "lat":17.065995492631025 , 
-            "lon":-96.7230945238037 
+            "lat":17.0751487  , 
+            "lon":-96.7684835
           }
         }, 
         "id": 1, 
@@ -23,7 +23,7 @@
           }
         }, 
         "icon": {
-          "url": "https://github.com/ZunigaFloresJoseluis/layar001/blob/master/img/img.jpg"
+          "url": "https://raw.githubusercontent.com/ZunigaFloresJoseluis/layar001/master/img/img.jpg"
         }, 
         "id": 2, 
         "text": {
@@ -41,8 +41,8 @@
         ], 
         "anchor": {
           "geolocation": {
-            "lat": 17.065995492631025, 
-            "lon": -96.7230945238037 
+            "lat": 17.0751487, 
+            "lon": -96.7684835
           }
         }, 
         "id": 3, 
