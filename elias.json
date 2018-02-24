@@ -1,0 +1,54 @@
+{
+    "errorCode": 0, 
+    "errorString": "ok", 
+    "hotspots": [
+      {
+        "anchor": {
+          "geolocation": {
+            "lat": 17.089304, 
+            "lon":  -96.721815
+          }
+        }, 
+        "id": 1, 
+        "text": {
+          "title": "Casa de elias"
+        }
+      }, 
+      {
+        "anchor": {
+          "geolocation": {
+            "lat": 17.089304, 
+            "lon": -96.721815
+          }
+        }, 
+        "icon": {
+          "url": "http://static.layar.com/media/content_media/113/ar-small-icon.png"
+        }, 
+        "id": 2, 
+        "text": {
+          "description": "Es una casa de algun color   etc.", 
+          "title": "mi descripcion"
+        }
+      }, 
+      {
+        "actions": [
+          {
+            "contentType": "text/html", 
+            "label": " ve mi sitio", 
+            "uri": "https://zunigafloresjoseluis.bitbucket.io/"
+          }
+        ], 
+        "anchor": {
+          "geolocation": {
+            "lat":17.089304, 
+            "lon":  -96.721815
+          }
+        }, 
+        "id": 3, 
+        "text": {
+          "title": "accion?"
+        }
+      }
+    ], 
+    "layer": ""
+  }
