@@ -11,8 +11,8 @@
       "actions": [
         {
           "contentType": "text/html", 
-          "label": "Visita  esto ", 
-          "uri": "https://zunigafloresjoseluis.bitbucket.io/"
+          "label": "Conozca la leyenda ", 
+          "uri": "http://www.viveoaxaca.org/2010/11/catedral-de-nuestra-senora-de-la.html"
           
         }
         
@@ -29,8 +29,8 @@
     
       "id": 3, 
       "text": {
-        "description": "Ofrece la promosion de artistas  oaxaqueños en Mexico y el extranjero", 
-        "title": "Museo de  los pintores"
+        "description": "Es uno de los edificios mas emblematicos de Oaxaca donde se guarda una leyenda magica ", 
+        "title": "Catedral de Nuestra Señora de la Asunción "
          
       }
     }
